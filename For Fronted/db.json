@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "productName": "Samsung A7",
+      "ProductType": "Mobile",
+      "ProductCategory": "Electronic",
+      "Discount": "18%",
+      "GST": "15%",
+      "DeliveyCharge": "500",
+      "Price": "3500",
+      "id": 2
+    },
+    {
+      "productName": "Lenovo Yoga",
+      "ProductType": "Laptop",
+      "ProductCategory": "Electronics",
+      "Discount": "6750.00",
+      "GST": "6885.00",
+      "DeliveyCharge": "350.00",
+      "Price": "45000.00",
+      "id": 3
+    }
+  ]
+}
